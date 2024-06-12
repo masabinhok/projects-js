@@ -4,7 +4,7 @@ This repository contains a collection of JavaScript projects built for practice.
 
 ## Projects
 
-1. **aagotype**: [Brief description]
-2. **billify**: [Brief description]
-3. **haso**: [Brief description]
+1. **aagotype**: a typing website
+2. **billify**: a bill generator
+3. **haso**: a jokes generator
 
