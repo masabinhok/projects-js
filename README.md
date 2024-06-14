@@ -1,4 +1,10 @@
-This repo contains My JavaScript projects I built for practice.
-1. aagotype
-2. billify
-3. haso
+# JavaScript Projects Repository
+
+This repository contains a collection of JavaScript projects built for practice.
+
+## Projects
+
+1. **aagotype**: a typing website
+2. **billify**: a bill generator
+3. **haso**: a jokes generator
+
