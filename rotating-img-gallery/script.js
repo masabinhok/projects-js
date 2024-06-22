@@ -1,5 +1,3 @@
-// Select the image container element
-const imageContainerEl = document.querySelector(".image-container");
 
 // Select the previous and next buttons
 const prevEl = document.getElementById("prev");
